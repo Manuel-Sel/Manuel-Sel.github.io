@@ -1,6 +1,8 @@
 main:
  - title: "About"
    url: /about/
+ - title: "Data Science Projects"
+   url: /projects/
  - title: "My Learning Path"
    url: /mylearningpath/
  #- title: "Posts"
