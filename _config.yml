@@ -59,10 +59,11 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Data Science Portfolio"
   location: "Karlsruhe, Germany"
-  links:
-      - label: "GitHub"
-         icon: "fab fa-fw fa-github"
-          url: "https://github.com/Manuel-Sel"
+  github: "Manuel-Sel"
+ # links:
+  #    - label: "GitHub"
+     #    icon: "fab fa-fw fa-github"
+       #   url: "https://github.com/Manuel-Sel"
    # - label: "Website"
    #   icon: "fas fa-fw fa-link"
     #  url: "https://"
