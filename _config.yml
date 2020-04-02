@@ -58,6 +58,7 @@ author:
   name   : "Manuel Sel"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Data Science Portfolio"
+  location: "Karlsruhe, Germany"
   links: 
    # - label: "Website"
    #   icon: "fas fa-fw fa-link"
