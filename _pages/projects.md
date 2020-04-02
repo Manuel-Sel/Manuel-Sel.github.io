@@ -1,7 +1,9 @@
+---
 layout: archive
 permalink: /projects/
 title: "Data Science Project Posts by Tags"
 author_profile: true
+---
 
 {% include base_path %}
 {% include group-by-array collection=site.posts fields="tags" %}
